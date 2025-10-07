@@ -1,0 +1,31 @@
+/* style.css */
+body {
+  background-color: #E0E0E0;
+  font-family: "Verdana", sans-serif;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+#header, #footer {
+  background-color: #C0C0C0;
+  text-align: center;
+  padding: 10px;
+  border-bottom: 2px solid #808080;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#content {
+  padding: 20px;
+  background-color: white;
+  margin: 20px;
+  border: 2px solid #C0C0C0;
+}
