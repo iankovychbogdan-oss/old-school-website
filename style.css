@@ -7,7 +7,8 @@ body {
   padding: 0;
 }
 
-#header, #footer {
+#header,
+#footer {
   background-color: #C0C0C0;
   text-align: center;
   padding: 10px;
@@ -23,7 +24,8 @@ a:hover {
   text-decoration: underline;
 }
 
-#content {
+#content,
+#contenttwo {
   padding: 20px;
   background-color: white;
   margin: 20px;
